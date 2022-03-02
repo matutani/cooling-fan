@@ -1,7 +1,7 @@
 # cooling-fan
 A cooling fan dataset containing vibration patterns of various fans at silent and noisy environments
 ## Overview
-A series of vibration patterns is stored in `DATA/` directory. Below is meaning of the directory name.
+Various vibration patterns are stored in `DATA/` directory. Below is meaning of the directory name.
 ~~~
 <size>_<speed>_<type>_<environment>
 ~~~
