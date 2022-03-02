@@ -43,8 +43,8 @@ Below are examples of machine learning tasks using this dataset.
 | 2000rpm | 12cm_m_normal_{silent,noisy} | 12cm_hmlo_normal_{silent,noisy} | To detect different fan speeds other than 2000rpm at a given environment |
 | 1500rpm | 12cm_l_normal_{silent,noisy} | 12cm_hmlo_normal_{silent,noisy} | To detect different fan speeds other than 1500rpm at a given environment |
 | 0rpm    | 12cm_o_normal_{silent,noisy} | 12cm_hmlo_normal_{silent,noisy} | To detect different fan speeds other than 0rpm at a given environment |
-| damage1 | 12cm_\*_normal_{silent,noisy} | 12cm_\*_damage1_{silent,noisy} | To detect damaged fan at a given environment |
-| damage2 | 12cm_\*_normal_{silent,noisy} | 12cm_\*_damage2_{silent,noisy} | To detect damaged fan at a given environment |
+| damage1 | 12cm_\*\_normal_{silent,noisy} | 12cm_\*\_damage1_{silent,noisy} | To detect damaged fan at a given environment |
+| damage2 | 12cm_\*\_normal_{silent,noisy} | 12cm_\*\_damage2_{silent,noisy} | To detect damaged fan at a given environment |
 | 4speed | 12cm_hmlo_normal_{silent,noisy} | 12cm_hmlo_normal_{silent,noisy} | To classify four speeds at a given environment |
 
 ## Reference
