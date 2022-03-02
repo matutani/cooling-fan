@@ -37,6 +37,6 @@ Each directory contains a series of frequency spectrums ranging from 1Hz to 512H
 
 A single frequency spectrum is stored in CSV file. 
 
-{h,m,l,o} datasets contain 300 CSV files, and hmlo datasets contain 235 CSV files.
+`h`, `m`, `l`, and `o` datasets contain 300 CSV files at a constant speed, respectively. `hmlo` datasets contain 235 CSV files in which the speed is changed in the order of h, m, l, and o.
 
 An animated frquency spectrum in MP4 format is also provided for each directory.
