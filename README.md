@@ -15,12 +15,12 @@ Below are size and speed pairs included in this dataset.
 - `12cm_m`: 12cm fan at 2000rpm
 - `12cm_l`: 12cm fan at 1500rpm
 - `12cm_o`: 12cm fan at 0rpm
-- `12cm_hmlo`: 8cm fan at different speeds (h, m, l, and o)
+- `12cm_hmlo`: 12cm fan at different speeds (h, m, l, and o)
 - `14cm_h`: 14cm fan at 2000rpm
 - `14cm_m`: 14cm fan at 1600rpm
 - `14cm_l`: 14cm fan at 1200rpm
 - `14cm_o`: 14cm fan at 0rpm
-- `14cm_hmlo`: 8cm fan at different speeds (h, m, l, and o)
+- `14cm_hmlo`: 14cm fan at different speeds (h, m, l, and o)
 
 Below are types of fans.
 - `normal`: normal fan
