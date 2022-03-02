@@ -1,5 +1,7 @@
 # cooling-fan
 A cooling fan dataset containing vibration patterns of various fans at silent and noisy environments
+## Overview
+A series of vibration patterns is stored in each directory. Below is meaning of the directory name.
 ~~~
 <size>_<speed>_<type>_<environment>
 ~~~
@@ -29,3 +31,9 @@ Below are environments.
 - `silentA`: office room A
 - `silentB`: office room B
 - `noisy`: office room near a ventilation fan
+
+## Vibration Patterns
+Each directory contains a series of frequency spectrums ranging from 1Hz to 512Hz at 1Hz resolution.
+A single frequency spectrum is stored in CSV file. 
+{h,m,l,o} datasets contain 300 CSV files, and hmlo datasets contain 235 CSV files.
+An animated frquency spectrum in MP4 format is also provided for each directory.
