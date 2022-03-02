@@ -39,13 +39,13 @@ Below are examples of machine learning tasks using this dataset.
 
 | Task name | Train data | Test data | Description |
 | ---- | ---- | ---- | ---- |
-| 2500rpm | 12cm_h_normal_silent | 12cm_hmlo_normal_noisy | To detect different fan speeds other than 2500rpm at noisy environment |
-| 2000rpm | 12cm_m_normal_silent | 12cm_hmlo_normal_noisy | To detect different fan speeds other than 2000rpm at noisy environment |
-| 1500rpm | 12cm_l_normal_silent | 12cm_hmlo_normal_noisy | To detect different fan speeds other than 1500rpm at noisy environment |
-| 0rpm    | 12cm_o_normal_silent | 12cm_hmlo_normal_noisy | To detect different fan speeds other than 0rpm at noisy environment |
-| damage1 | 12cm_\*_normal_silent | 12cm_\*_damage1_noisy | To detect damaged fan at noisy environment |
-| damage2 | 12cm_\*_normal_silent | 12cm_\*_damage2_noisy | To detect damaged fan at noisy environment |
-| 4speed | 12cm_hmlo_normal_silent | 12cm_hmlo_normal_noisy | To classify four speeds at noisy environment |
+| 2500rpm | 12cm_h_normal_{silent,noisy} | 12cm_hmlo_normal_{silent,noisy} | To detect different fan speeds other than 2500rpm at a given environment |
+| 2000rpm | 12cm_m_normal_{silent,noisy} | 12cm_hmlo_normal_{silent,noisy} | To detect different fan speeds other than 2000rpm at a given environment |
+| 1500rpm | 12cm_l_normal_{silent,noisy} | 12cm_hmlo_normal_{silent,noisy} | To detect different fan speeds other than 1500rpm at a given environment |
+| 0rpm    | 12cm_o_normal_{silent,noisy} | 12cm_hmlo_normal_{silent,noisy} | To detect different fan speeds other than 0rpm at a given environment |
+| damage1 | 12cm_\*_normal_{silent,noisy} | 12cm_\*_damage1_{silent,noisy} | To detect damaged fan at a given environment |
+| damage2 | 12cm_\*_normal_{silent,noisy} | 12cm_\*_damage2_{silent,noisy} | To detect damaged fan at a given environment |
+| 4speed | 12cm_hmlo_normal_{silent,noisy} | 12cm_hmlo_normal_{silent,noisy} | To classify four speeds at a given environment |
 
 ## Reference
 You can find more information about this dataset in the following preprint. If you use this dataset, please cite it in your paper.
