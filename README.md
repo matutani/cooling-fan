@@ -32,4 +32,4 @@ Below are environments.
 - `silentB`: office room B
 - `noisy`: office room near a ventilation fan
 
-Each directory contains a series of frequency spectrums ranging from 1Hz to 512Hz at 1Hz resolution. A single frequency spectrum is stored in CSV file. In `h`, `m`, `l`, and `o` patterns each contains 300 CSV files at a constant speed. In `hmlo` patterns each contains 235 CSV files in which the speed is changed in the order of h, m, l, and o. An animated frquency spectrum in MP4 format is also provided for each directory.
+Each directory contains a series of frequency spectrums ranging from 1Hz to 512Hz at 1Hz resolution. A single frequency spectrum is stored in CSV file. In `h`, `m`, `l`, and `o` patterns each contains 300 CSV files at a constant speed. In `hmlo` patterns each contains 235 CSV files in which the speed is changed in the order of h, m, l, and o. An animated frequency spectrum in MP4 format is also provided for each directory.
