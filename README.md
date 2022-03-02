@@ -34,6 +34,9 @@ Below are environments.
 
 ## Vibration Patterns
 Each directory contains a series of frequency spectrums ranging from 1Hz to 512Hz at 1Hz resolution.
+
 A single frequency spectrum is stored in CSV file. 
+
 {h,m,l,o} datasets contain 300 CSV files, and hmlo datasets contain 235 CSV files.
+
 An animated frquency spectrum in MP4 format is also provided for each directory.
