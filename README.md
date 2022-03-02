@@ -49,4 +49,4 @@ Below are examples of machine learning tasks using this dataset.
 
 ## Reference
 You can find more information about this dataset in the following preprint. If you use this dataset, please cite it in your paper.
-> Hiroki Matsutani, Mineto Tsukada, Masaaki Kondo, "On-Device Learning: A Neural Network Based Field-Trainable Edge AI", 	arXiv:\*\*\*\*.\*\*\*\*\*, Feb 2022.
+> Hiroki Matsutani, Mineto Tsukada, Masaaki Kondo, "On-Device Learning: A Neural Network Based Field-Trainable Edge AI", 	arXiv:\*\*\*\*.\*\*\*\*\*, Mar 2022.
