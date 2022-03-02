@@ -41,3 +41,4 @@ Below are examples of machine learning tasks using this dataset.
 | ---- | ---- | ---- | ---- |
 | 12cm_damage1 | 12cm_\*_normal_silent | 12cm_\*_damage1_noisy | To detect damaged fan at noisy environment |
 | 12cm_damage2 | 12cm_\*_normal_silent | 12cm_\*_damage2_noisy | To detect damaged fan at noisy environment |
+| 12cm_4speed | 12cm_hmlo_normal_silent | 12cm_hmlo_normal_noisy | To classify four speeds at noisy environment |
