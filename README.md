@@ -33,3 +33,11 @@ Below are environments.
 - `noisy`: office room near a ventilation fan
 
 Each directory contains a series of frequency spectrums ranging from 1Hz to 512Hz at 1Hz resolution. A single frequency spectrum is stored in CSV file. In `h`, `m`, `l`, and `o` patterns each contains 300 CSV files at a constant speed. In `hmlo` patterns each contains 235 CSV files in which the speed is changed in the order of h, m, l, and o. An animated frequency spectrum in MP4 format is also provided for each directory.
+
+## Example Tasks
+Below are examples of machine learning tasks using this dataset.
+
+| Name | Train data | Test data | Description |
+| ---- | ---- | ---- | ---- |
+| 12cm_damage1 | 12cm_\*_normal_silent | 12cm_\*_damage1_noisy | To detect damaged fan at noisy environment |
+| 12cm_damage2 | 12cm_\*_normal_silent | 12cm_\*_damage2_noisy | To detect damaged fan at noisy environment |
