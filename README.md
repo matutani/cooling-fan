@@ -48,5 +48,5 @@ Below are examples of machine learning tasks using this dataset.
 | 4speed | 12cm_hmlo_normal_{silent,noisy} | 12cm_hmlo_normal_{silent,noisy} | A task to classify four speeds at a given environment |
 
 ## Reference
-You can find more information about this dataset in the following preprint. If you use this dataset, please cite it in your paper.
-> Hiroki Matsutani, Mineto Tsukada, Masaaki Kondo, "On-Device Learning: A Neural Network Based Field-Trainable Edge AI", arXiv:2203.01077, Mar 2022. https://arxiv.org/abs/2203.01077
+You can find more information about this dataset in the following paper. If you use this dataset, please cite it in your paper.
+> Kazuki Sunaga, Masaaki Kondo, Hiroki Matsutani, "Addressing Gap between Training Data and Deployed Environment by On-Device Learning", IEEE Micro, Nov/Dec 2023.
