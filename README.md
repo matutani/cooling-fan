@@ -49,4 +49,4 @@ Below are examples of machine learning tasks using this dataset.
 
 ## Reference
 You can find more information about this dataset in the following paper. If you use this dataset, please cite it in your paper.
-> Kazuki Sunaga, Masaaki Kondo, Hiroki Matsutani, "Addressing Gap between Training Data and Deployed Environment by On-Device Learning", IEEE Micro, Nov/Dec 2023.
+> Kazuki Sunaga, Masaaki Kondo, Hiroki Matsutani, "Addressing Gap between Training Data and Deployed Environment by On-Device Learning", IEEE Micro, vol.43, no.6, pp.66-73, Nov/Dec 2023.
